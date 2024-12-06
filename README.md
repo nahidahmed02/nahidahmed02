@@ -57,13 +57,13 @@
 ### 📈 GitHub Stats
 <p align="center">
     <img 
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=nahidahmed02&show_icons=true&locale=en&layout=compact&theme=radical" 
+        src="https://github-readme-stats.vercel.app/api/top-langs?username=nahidahmed02&show_icons=true&locale=en&layout=compact&theme=nightowl" 
         alt="Most Used Languages" 
         style="border-radius: 10px;" 
     />
     <br>
     <img 
-        src="https://streak-stats.demolab.com/?user=nahidahmed02&theme=radical" 
+        src="https://streak-stats.demolab.com/?user=nahidahmed02&theme=nightowl" 
         alt="GitHub Streak" 
         style="border-radius: 10px;" 
     />
