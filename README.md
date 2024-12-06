@@ -56,9 +56,17 @@
 
 ### 📈 GitHub Stats
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nahidahmed02&show_icons=true&locale=en&layout=compact" alt="Most Used Languages" />
+    <img 
+        src="https://github-readme-stats.vercel.app/api/top-langs?username=nahidahmed02&show_icons=true&locale=en&layout=compact&theme=radical" 
+        alt="Most Used Languages" 
+        style="border-radius: 10px;" 
+    />
     <br>
-    <img src="https://streak-stats.demolab.com/?user=nahidahmed02" alt="GitHub Streak" />
+    <img 
+        src="https://streak-stats.demolab.com/?user=nahidahmed02&theme=radical" 
+        alt="GitHub Streak" 
+        style="border-radius: 10px;" 
+    />
 </p>
 
 ---
