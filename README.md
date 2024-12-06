@@ -73,7 +73,7 @@
 
 ### 🏆 GitHub Trophies
 <p align="center">
-    <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nahidahmed02&margin-w=15" alt="GitHub Trophies" /></a>
+    <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nahidahmed02&margin-w=15&theme=nord" alt="GitHub Trophies" /></a>
 </p>
 
 ---
@@ -83,3 +83,5 @@
   <a href="https://linkedin.com/in/nahid-02n" target="blank"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" /></a>
   <a href="https://github.com/nahidahmed02" target="blank"><img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge" alt="GitHub" /></a>
 </p>
+
+
