@@ -5,7 +5,7 @@
     <a href="https://itsnahid.netlify.app/" target="_blank">
         <img src="https://img.shields.io/badge/-Portfolio-4CAF50?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
     </a>
-    <a href="https://drive.google.com/file/d/1oortML5fbrtB6oggvL3SlFhcGGyP2pRR/view" target="_blank">
+    <a href="https://drive.google.com/file/d/11i6fGIgAMksQ0UYw3aC6yqW0WuSEQav_/view?usp=drive_link" target="_blank">
         <img src="https://img.shields.io/badge/-Resume-0077B5?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume" />
     </a>
     <a href="mailto:ahmednahid1995@gmail.com">
