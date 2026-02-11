@@ -4,10 +4,7 @@
 <p align="center">
     <a href="https://itsnahid.netlify.app/" target="_blank">
         <img src="https://img.shields.io/badge/-Portfolio-4CAF50?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
-    </a>
-    <a href="https://drive.google.com/file/d/11i6fGIgAMksQ0UYw3aC6yqW0WuSEQav_/view?usp=drive_link" target="_blank">
-        <img src="https://img.shields.io/badge/-Resume-0077B5?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume" />
-    </a>
+    </a>   
     <a href="mailto:ahmednahid1995@gmail.com">
         <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
